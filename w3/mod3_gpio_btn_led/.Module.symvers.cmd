@@ -1,0 +1,1 @@
+savedcmd_/home/lander/Lander/so2/w3/mod3_gpio_btn_led/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/lander/Lander/so2/w3/mod3_gpio_btn_led/Module.symvers -T /home/lander/Lander/so2/w3/mod3_gpio_btn_led/modules.order -i Module.symvers -e 

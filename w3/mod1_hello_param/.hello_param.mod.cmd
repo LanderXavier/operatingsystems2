@@ -1,0 +1,1 @@
+savedcmd_/home/lander/Lander/so2/w3/mod1_hello_param/hello_param.mod := printf '%s\n'   hello_param.o | awk '!x[$$0]++ { print("/home/lander/Lander/so2/w3/mod1_hello_param/"$$0) }' > /home/lander/Lander/so2/w3/mod1_hello_param/hello_param.mod

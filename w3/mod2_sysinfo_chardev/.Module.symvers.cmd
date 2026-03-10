@@ -1,0 +1,1 @@
+savedcmd_/home/lander/Lander/so2/w3/mod2_sysinfo_chardev/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/lander/Lander/so2/w3/mod2_sysinfo_chardev/Module.symvers -T /home/lander/Lander/so2/w3/mod2_sysinfo_chardev/modules.order -i Module.symvers -e 

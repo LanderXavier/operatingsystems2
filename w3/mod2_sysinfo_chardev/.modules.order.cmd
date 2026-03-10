@@ -1,0 +1,1 @@
+savedcmd_/home/lander/Lander/so2/w3/mod2_sysinfo_chardev/modules.order := {   echo /home/lander/Lander/so2/w3/mod2_sysinfo_chardev/sysinfo_chardev.o; :; } > /home/lander/Lander/so2/w3/mod2_sysinfo_chardev/modules.order
