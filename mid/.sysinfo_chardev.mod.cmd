@@ -1,1 +1,0 @@
-savedcmd_/home/lander/Lander/so2/mid/sysinfo_chardev.mod := printf '%s\n'   sysinfo_chardev.o | awk '!x[$$0]++ { print("/home/lander/Lander/so2/mid/"$$0) }' > /home/lander/Lander/so2/mid/sysinfo_chardev.mod

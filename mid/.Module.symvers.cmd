@@ -1,1 +1,0 @@
-savedcmd_/home/lander/Lander/so2/mid/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/lander/Lander/so2/mid/Module.symvers -T /home/lander/Lander/so2/mid/modules.order -i Module.symvers -e 

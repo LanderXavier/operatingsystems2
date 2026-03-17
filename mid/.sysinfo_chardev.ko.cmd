@@ -1,1 +1,0 @@
-savedcmd_/home/lander/Lander/so2/mid/sysinfo_chardev.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/lander/Lander/so2/mid/sysinfo_chardev.ko /home/lander/Lander/so2/mid/sysinfo_chardev.o /home/lander/Lander/so2/mid/sysinfo_chardev.mod.o /home/lander/Lander/so2/mid/.module-common.o
